@@ -1,0 +1,13 @@
+# Compiled executable
+rsa
+
+# Generated files
+encrypted.txt
+decrypted.txt
+keys.txt
+
+# macOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
